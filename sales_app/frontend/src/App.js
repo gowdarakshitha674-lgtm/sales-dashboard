@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 
-const API = "http://localhost:5000/api";
+const API = "http://sales-dashboard-production-37a7.up.railway.app/api";
 
 // ── Small reusable components ──────────────────────────────────
 
